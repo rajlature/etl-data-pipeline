@@ -1,0 +1,28 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment secrets
+.env
+.env.*
+
+# Keep an example environment template if you add one later
+!.env.example
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+logs/
+ 
+# Generated data — keep data/raw/sales.csv tracked
+data/processed/*
+data/rejected/*
+
+# IDE
+.vscode/

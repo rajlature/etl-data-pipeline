@@ -1,0 +1,8 @@
+
+order_id,order_date,product,category,quantity,unit_price
+1001,2026-10-01,Laptop,Electronics,2,55000
+1002,2026-10-02,Mouse,Accessories,5,500
+1003,2026-10-03,Keyboard,Accessories,3,1200
+1004,2026-10-04,Monitor,Electronics,2,12000
+1005,2026-10-05,Laptop,Electronics,1,55000
+1006,2026-10-06,Mouse,Accessories,4,500
